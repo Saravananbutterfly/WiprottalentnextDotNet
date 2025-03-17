@@ -1,0 +1,14 @@
+E:\Wipro\StringManipulation\bin\Debug\net7.0\StringManipulation.exe
+E:\Wipro\StringManipulation\bin\Debug\net7.0\StringManipulation.deps.json
+E:\Wipro\StringManipulation\bin\Debug\net7.0\StringManipulation.runtimeconfig.json
+E:\Wipro\StringManipulation\bin\Debug\net7.0\StringManipulation.dll
+E:\Wipro\StringManipulation\bin\Debug\net7.0\StringManipulation.pdb
+E:\Wipro\StringManipulation\obj\Debug\net7.0\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\StringManipulation\obj\Debug\net7.0\StringManipulation.AssemblyInfoInputs.cache
+E:\Wipro\StringManipulation\obj\Debug\net7.0\StringManipulation.AssemblyInfo.cs
+E:\Wipro\StringManipulation\obj\Debug\net7.0\StringManipulation.csproj.CoreCompileInputs.cache
+E:\Wipro\StringManipulation\obj\Debug\net7.0\StringManipulation.dll
+E:\Wipro\StringManipulation\obj\Debug\net7.0\refint\StringManipulation.dll
+E:\Wipro\StringManipulation\obj\Debug\net7.0\StringManipulation.pdb
+E:\Wipro\StringManipulation\obj\Debug\net7.0\StringManipulation.genruntimeconfig.cache
+E:\Wipro\StringManipulation\obj\Debug\net7.0\ref\StringManipulation.dll

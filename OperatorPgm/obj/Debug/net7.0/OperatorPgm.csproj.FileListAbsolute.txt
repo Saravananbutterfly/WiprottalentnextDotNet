@@ -1,0 +1,14 @@
+E:\Wipro\OperatorPgm\bin\Debug\net7.0\OperatorPgm.exe
+E:\Wipro\OperatorPgm\bin\Debug\net7.0\OperatorPgm.deps.json
+E:\Wipro\OperatorPgm\bin\Debug\net7.0\OperatorPgm.runtimeconfig.json
+E:\Wipro\OperatorPgm\bin\Debug\net7.0\OperatorPgm.dll
+E:\Wipro\OperatorPgm\bin\Debug\net7.0\OperatorPgm.pdb
+E:\Wipro\OperatorPgm\obj\Debug\net7.0\OperatorPgm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\OperatorPgm\obj\Debug\net7.0\OperatorPgm.AssemblyInfoInputs.cache
+E:\Wipro\OperatorPgm\obj\Debug\net7.0\OperatorPgm.AssemblyInfo.cs
+E:\Wipro\OperatorPgm\obj\Debug\net7.0\OperatorPgm.csproj.CoreCompileInputs.cache
+E:\Wipro\OperatorPgm\obj\Debug\net7.0\OperatorPgm.dll
+E:\Wipro\OperatorPgm\obj\Debug\net7.0\refint\OperatorPgm.dll
+E:\Wipro\OperatorPgm\obj\Debug\net7.0\OperatorPgm.pdb
+E:\Wipro\OperatorPgm\obj\Debug\net7.0\OperatorPgm.genruntimeconfig.cache
+E:\Wipro\OperatorPgm\obj\Debug\net7.0\ref\OperatorPgm.dll

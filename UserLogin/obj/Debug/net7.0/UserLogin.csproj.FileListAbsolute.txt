@@ -1,0 +1,14 @@
+E:\Wipro\UserLogin\bin\Debug\net7.0\UserLogin.exe
+E:\Wipro\UserLogin\bin\Debug\net7.0\UserLogin.deps.json
+E:\Wipro\UserLogin\bin\Debug\net7.0\UserLogin.runtimeconfig.json
+E:\Wipro\UserLogin\bin\Debug\net7.0\UserLogin.dll
+E:\Wipro\UserLogin\bin\Debug\net7.0\UserLogin.pdb
+E:\Wipro\UserLogin\obj\Debug\net7.0\UserLogin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\UserLogin\obj\Debug\net7.0\UserLogin.AssemblyInfoInputs.cache
+E:\Wipro\UserLogin\obj\Debug\net7.0\UserLogin.AssemblyInfo.cs
+E:\Wipro\UserLogin\obj\Debug\net7.0\UserLogin.csproj.CoreCompileInputs.cache
+E:\Wipro\UserLogin\obj\Debug\net7.0\UserLogin.dll
+E:\Wipro\UserLogin\obj\Debug\net7.0\refint\UserLogin.dll
+E:\Wipro\UserLogin\obj\Debug\net7.0\UserLogin.pdb
+E:\Wipro\UserLogin\obj\Debug\net7.0\UserLogin.genruntimeconfig.cache
+E:\Wipro\UserLogin\obj\Debug\net7.0\ref\UserLogin.dll
