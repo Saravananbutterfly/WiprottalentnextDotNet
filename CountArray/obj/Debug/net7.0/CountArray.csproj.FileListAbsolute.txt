@@ -1,0 +1,14 @@
+E:\Wipro\CountArray\bin\Debug\net7.0\CountArray.exe
+E:\Wipro\CountArray\bin\Debug\net7.0\CountArray.deps.json
+E:\Wipro\CountArray\bin\Debug\net7.0\CountArray.runtimeconfig.json
+E:\Wipro\CountArray\bin\Debug\net7.0\CountArray.dll
+E:\Wipro\CountArray\bin\Debug\net7.0\CountArray.pdb
+E:\Wipro\CountArray\obj\Debug\net7.0\CountArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\CountArray\obj\Debug\net7.0\CountArray.AssemblyInfoInputs.cache
+E:\Wipro\CountArray\obj\Debug\net7.0\CountArray.AssemblyInfo.cs
+E:\Wipro\CountArray\obj\Debug\net7.0\CountArray.csproj.CoreCompileInputs.cache
+E:\Wipro\CountArray\obj\Debug\net7.0\CountArray.dll
+E:\Wipro\CountArray\obj\Debug\net7.0\refint\CountArray.dll
+E:\Wipro\CountArray\obj\Debug\net7.0\CountArray.pdb
+E:\Wipro\CountArray\obj\Debug\net7.0\CountArray.genruntimeconfig.cache
+E:\Wipro\CountArray\obj\Debug\net7.0\ref\CountArray.dll

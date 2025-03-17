@@ -1,0 +1,14 @@
+E:\Wipro\NumberPos\bin\Debug\net7.0\NumberPos.exe
+E:\Wipro\NumberPos\bin\Debug\net7.0\NumberPos.deps.json
+E:\Wipro\NumberPos\bin\Debug\net7.0\NumberPos.runtimeconfig.json
+E:\Wipro\NumberPos\bin\Debug\net7.0\NumberPos.dll
+E:\Wipro\NumberPos\bin\Debug\net7.0\NumberPos.pdb
+E:\Wipro\NumberPos\obj\Debug\net7.0\NumberPos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\NumberPos\obj\Debug\net7.0\NumberPos.AssemblyInfoInputs.cache
+E:\Wipro\NumberPos\obj\Debug\net7.0\NumberPos.AssemblyInfo.cs
+E:\Wipro\NumberPos\obj\Debug\net7.0\NumberPos.csproj.CoreCompileInputs.cache
+E:\Wipro\NumberPos\obj\Debug\net7.0\NumberPos.dll
+E:\Wipro\NumberPos\obj\Debug\net7.0\refint\NumberPos.dll
+E:\Wipro\NumberPos\obj\Debug\net7.0\NumberPos.pdb
+E:\Wipro\NumberPos\obj\Debug\net7.0\NumberPos.genruntimeconfig.cache
+E:\Wipro\NumberPos\obj\Debug\net7.0\ref\NumberPos.dll

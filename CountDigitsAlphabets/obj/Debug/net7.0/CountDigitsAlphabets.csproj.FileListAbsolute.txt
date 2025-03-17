@@ -1,0 +1,14 @@
+E:\Wipro\CountDigitsAlphabets\bin\Debug\net7.0\CountDigitsAlphabets.exe
+E:\Wipro\CountDigitsAlphabets\bin\Debug\net7.0\CountDigitsAlphabets.deps.json
+E:\Wipro\CountDigitsAlphabets\bin\Debug\net7.0\CountDigitsAlphabets.runtimeconfig.json
+E:\Wipro\CountDigitsAlphabets\bin\Debug\net7.0\CountDigitsAlphabets.dll
+E:\Wipro\CountDigitsAlphabets\bin\Debug\net7.0\CountDigitsAlphabets.pdb
+E:\Wipro\CountDigitsAlphabets\obj\Debug\net7.0\CountDigitsAlphabets.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\CountDigitsAlphabets\obj\Debug\net7.0\CountDigitsAlphabets.AssemblyInfoInputs.cache
+E:\Wipro\CountDigitsAlphabets\obj\Debug\net7.0\CountDigitsAlphabets.AssemblyInfo.cs
+E:\Wipro\CountDigitsAlphabets\obj\Debug\net7.0\CountDigitsAlphabets.csproj.CoreCompileInputs.cache
+E:\Wipro\CountDigitsAlphabets\obj\Debug\net7.0\CountDigitsAlphabets.dll
+E:\Wipro\CountDigitsAlphabets\obj\Debug\net7.0\refint\CountDigitsAlphabets.dll
+E:\Wipro\CountDigitsAlphabets\obj\Debug\net7.0\CountDigitsAlphabets.pdb
+E:\Wipro\CountDigitsAlphabets\obj\Debug\net7.0\CountDigitsAlphabets.genruntimeconfig.cache
+E:\Wipro\CountDigitsAlphabets\obj\Debug\net7.0\ref\CountDigitsAlphabets.dll
