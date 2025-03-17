@@ -1,0 +1,14 @@
+E:\Wipro\AreaSquare\bin\Debug\net7.0\AreaSquare.exe
+E:\Wipro\AreaSquare\bin\Debug\net7.0\AreaSquare.deps.json
+E:\Wipro\AreaSquare\bin\Debug\net7.0\AreaSquare.runtimeconfig.json
+E:\Wipro\AreaSquare\bin\Debug\net7.0\AreaSquare.dll
+E:\Wipro\AreaSquare\bin\Debug\net7.0\AreaSquare.pdb
+E:\Wipro\AreaSquare\obj\Debug\net7.0\AreaSquare.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\AreaSquare\obj\Debug\net7.0\AreaSquare.AssemblyInfoInputs.cache
+E:\Wipro\AreaSquare\obj\Debug\net7.0\AreaSquare.AssemblyInfo.cs
+E:\Wipro\AreaSquare\obj\Debug\net7.0\AreaSquare.csproj.CoreCompileInputs.cache
+E:\Wipro\AreaSquare\obj\Debug\net7.0\AreaSquare.dll
+E:\Wipro\AreaSquare\obj\Debug\net7.0\refint\AreaSquare.dll
+E:\Wipro\AreaSquare\obj\Debug\net7.0\AreaSquare.pdb
+E:\Wipro\AreaSquare\obj\Debug\net7.0\AreaSquare.genruntimeconfig.cache
+E:\Wipro\AreaSquare\obj\Debug\net7.0\ref\AreaSquare.dll

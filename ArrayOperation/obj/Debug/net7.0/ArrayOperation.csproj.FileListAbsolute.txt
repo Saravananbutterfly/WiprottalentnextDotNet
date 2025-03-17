@@ -1,0 +1,14 @@
+E:\Wipro\ArrayOperation\bin\Debug\net7.0\ArrayOperation.exe
+E:\Wipro\ArrayOperation\bin\Debug\net7.0\ArrayOperation.deps.json
+E:\Wipro\ArrayOperation\bin\Debug\net7.0\ArrayOperation.runtimeconfig.json
+E:\Wipro\ArrayOperation\bin\Debug\net7.0\ArrayOperation.dll
+E:\Wipro\ArrayOperation\bin\Debug\net7.0\ArrayOperation.pdb
+E:\Wipro\ArrayOperation\obj\Debug\net7.0\ArrayOperation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\ArrayOperation\obj\Debug\net7.0\ArrayOperation.AssemblyInfoInputs.cache
+E:\Wipro\ArrayOperation\obj\Debug\net7.0\ArrayOperation.AssemblyInfo.cs
+E:\Wipro\ArrayOperation\obj\Debug\net7.0\ArrayOperation.csproj.CoreCompileInputs.cache
+E:\Wipro\ArrayOperation\obj\Debug\net7.0\ArrayOperation.dll
+E:\Wipro\ArrayOperation\obj\Debug\net7.0\refint\ArrayOperation.dll
+E:\Wipro\ArrayOperation\obj\Debug\net7.0\ArrayOperation.pdb
+E:\Wipro\ArrayOperation\obj\Debug\net7.0\ArrayOperation.genruntimeconfig.cache
+E:\Wipro\ArrayOperation\obj\Debug\net7.0\ref\ArrayOperation.dll

@@ -1,0 +1,14 @@
+E:\Wipro\CharacterToggleCase\bin\Debug\net7.0\CharacterToggleCase.exe
+E:\Wipro\CharacterToggleCase\bin\Debug\net7.0\CharacterToggleCase.deps.json
+E:\Wipro\CharacterToggleCase\bin\Debug\net7.0\CharacterToggleCase.runtimeconfig.json
+E:\Wipro\CharacterToggleCase\bin\Debug\net7.0\CharacterToggleCase.dll
+E:\Wipro\CharacterToggleCase\bin\Debug\net7.0\CharacterToggleCase.pdb
+E:\Wipro\CharacterToggleCase\obj\Debug\net7.0\CharacterToggleCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\CharacterToggleCase\obj\Debug\net7.0\CharacterToggleCase.AssemblyInfoInputs.cache
+E:\Wipro\CharacterToggleCase\obj\Debug\net7.0\CharacterToggleCase.AssemblyInfo.cs
+E:\Wipro\CharacterToggleCase\obj\Debug\net7.0\CharacterToggleCase.csproj.CoreCompileInputs.cache
+E:\Wipro\CharacterToggleCase\obj\Debug\net7.0\CharacterToggleCase.dll
+E:\Wipro\CharacterToggleCase\obj\Debug\net7.0\refint\CharacterToggleCase.dll
+E:\Wipro\CharacterToggleCase\obj\Debug\net7.0\CharacterToggleCase.pdb
+E:\Wipro\CharacterToggleCase\obj\Debug\net7.0\CharacterToggleCase.genruntimeconfig.cache
+E:\Wipro\CharacterToggleCase\obj\Debug\net7.0\ref\CharacterToggleCase.dll
