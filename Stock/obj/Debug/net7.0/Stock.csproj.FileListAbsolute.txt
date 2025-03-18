@@ -1,0 +1,14 @@
+E:\Wipro\Stock\bin\Debug\net7.0\Stock.exe
+E:\Wipro\Stock\bin\Debug\net7.0\Stock.deps.json
+E:\Wipro\Stock\bin\Debug\net7.0\Stock.runtimeconfig.json
+E:\Wipro\Stock\bin\Debug\net7.0\Stock.dll
+E:\Wipro\Stock\bin\Debug\net7.0\Stock.pdb
+E:\Wipro\Stock\obj\Debug\net7.0\Stock.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\Stock\obj\Debug\net7.0\Stock.AssemblyInfoInputs.cache
+E:\Wipro\Stock\obj\Debug\net7.0\Stock.AssemblyInfo.cs
+E:\Wipro\Stock\obj\Debug\net7.0\Stock.csproj.CoreCompileInputs.cache
+E:\Wipro\Stock\obj\Debug\net7.0\Stock.dll
+E:\Wipro\Stock\obj\Debug\net7.0\refint\Stock.dll
+E:\Wipro\Stock\obj\Debug\net7.0\Stock.pdb
+E:\Wipro\Stock\obj\Debug\net7.0\Stock.genruntimeconfig.cache
+E:\Wipro\Stock\obj\Debug\net7.0\ref\Stock.dll
