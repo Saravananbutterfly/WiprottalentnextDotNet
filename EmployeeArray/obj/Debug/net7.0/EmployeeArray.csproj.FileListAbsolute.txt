@@ -1,0 +1,14 @@
+E:\Wipro\EmployeeArray\bin\Debug\net7.0\EmployeeArray.exe
+E:\Wipro\EmployeeArray\bin\Debug\net7.0\EmployeeArray.deps.json
+E:\Wipro\EmployeeArray\bin\Debug\net7.0\EmployeeArray.runtimeconfig.json
+E:\Wipro\EmployeeArray\bin\Debug\net7.0\EmployeeArray.dll
+E:\Wipro\EmployeeArray\bin\Debug\net7.0\EmployeeArray.pdb
+E:\Wipro\EmployeeArray\obj\Debug\net7.0\EmployeeArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\EmployeeArray\obj\Debug\net7.0\EmployeeArray.AssemblyInfoInputs.cache
+E:\Wipro\EmployeeArray\obj\Debug\net7.0\EmployeeArray.AssemblyInfo.cs
+E:\Wipro\EmployeeArray\obj\Debug\net7.0\EmployeeArray.csproj.CoreCompileInputs.cache
+E:\Wipro\EmployeeArray\obj\Debug\net7.0\EmployeeArray.dll
+E:\Wipro\EmployeeArray\obj\Debug\net7.0\refint\EmployeeArray.dll
+E:\Wipro\EmployeeArray\obj\Debug\net7.0\EmployeeArray.pdb
+E:\Wipro\EmployeeArray\obj\Debug\net7.0\EmployeeArray.genruntimeconfig.cache
+E:\Wipro\EmployeeArray\obj\Debug\net7.0\ref\EmployeeArray.dll

@@ -1,0 +1,14 @@
+E:\Wipro\QueueToken\bin\Debug\net7.0\QueueToken.exe
+E:\Wipro\QueueToken\bin\Debug\net7.0\QueueToken.deps.json
+E:\Wipro\QueueToken\bin\Debug\net7.0\QueueToken.runtimeconfig.json
+E:\Wipro\QueueToken\bin\Debug\net7.0\QueueToken.dll
+E:\Wipro\QueueToken\bin\Debug\net7.0\QueueToken.pdb
+E:\Wipro\QueueToken\obj\Debug\net7.0\QueueToken.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\QueueToken\obj\Debug\net7.0\QueueToken.AssemblyInfoInputs.cache
+E:\Wipro\QueueToken\obj\Debug\net7.0\QueueToken.AssemblyInfo.cs
+E:\Wipro\QueueToken\obj\Debug\net7.0\QueueToken.csproj.CoreCompileInputs.cache
+E:\Wipro\QueueToken\obj\Debug\net7.0\QueueToken.dll
+E:\Wipro\QueueToken\obj\Debug\net7.0\refint\QueueToken.dll
+E:\Wipro\QueueToken\obj\Debug\net7.0\QueueToken.pdb
+E:\Wipro\QueueToken\obj\Debug\net7.0\QueueToken.genruntimeconfig.cache
+E:\Wipro\QueueToken\obj\Debug\net7.0\ref\QueueToken.dll

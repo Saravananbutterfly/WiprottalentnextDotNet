@@ -1,0 +1,14 @@
+E:\Wipro\EmployeeList\bin\Debug\net7.0\EmployeeList.exe
+E:\Wipro\EmployeeList\bin\Debug\net7.0\EmployeeList.deps.json
+E:\Wipro\EmployeeList\bin\Debug\net7.0\EmployeeList.runtimeconfig.json
+E:\Wipro\EmployeeList\bin\Debug\net7.0\EmployeeList.dll
+E:\Wipro\EmployeeList\bin\Debug\net7.0\EmployeeList.pdb
+E:\Wipro\EmployeeList\obj\Debug\net7.0\EmployeeList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\EmployeeList\obj\Debug\net7.0\EmployeeList.AssemblyInfoInputs.cache
+E:\Wipro\EmployeeList\obj\Debug\net7.0\EmployeeList.AssemblyInfo.cs
+E:\Wipro\EmployeeList\obj\Debug\net7.0\EmployeeList.csproj.CoreCompileInputs.cache
+E:\Wipro\EmployeeList\obj\Debug\net7.0\EmployeeList.dll
+E:\Wipro\EmployeeList\obj\Debug\net7.0\refint\EmployeeList.dll
+E:\Wipro\EmployeeList\obj\Debug\net7.0\EmployeeList.pdb
+E:\Wipro\EmployeeList\obj\Debug\net7.0\EmployeeList.genruntimeconfig.cache
+E:\Wipro\EmployeeList\obj\Debug\net7.0\ref\EmployeeList.dll
