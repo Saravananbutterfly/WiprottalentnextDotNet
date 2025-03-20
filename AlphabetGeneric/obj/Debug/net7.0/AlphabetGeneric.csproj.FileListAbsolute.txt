@@ -1,0 +1,14 @@
+E:\Wipro\AlphabetGeneric\bin\Debug\net7.0\AlphabetGeneric.exe
+E:\Wipro\AlphabetGeneric\bin\Debug\net7.0\AlphabetGeneric.deps.json
+E:\Wipro\AlphabetGeneric\bin\Debug\net7.0\AlphabetGeneric.runtimeconfig.json
+E:\Wipro\AlphabetGeneric\bin\Debug\net7.0\AlphabetGeneric.dll
+E:\Wipro\AlphabetGeneric\bin\Debug\net7.0\AlphabetGeneric.pdb
+E:\Wipro\AlphabetGeneric\obj\Debug\net7.0\AlphabetGeneric.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\AlphabetGeneric\obj\Debug\net7.0\AlphabetGeneric.AssemblyInfoInputs.cache
+E:\Wipro\AlphabetGeneric\obj\Debug\net7.0\AlphabetGeneric.AssemblyInfo.cs
+E:\Wipro\AlphabetGeneric\obj\Debug\net7.0\AlphabetGeneric.csproj.CoreCompileInputs.cache
+E:\Wipro\AlphabetGeneric\obj\Debug\net7.0\AlphabetGeneric.dll
+E:\Wipro\AlphabetGeneric\obj\Debug\net7.0\refint\AlphabetGeneric.dll
+E:\Wipro\AlphabetGeneric\obj\Debug\net7.0\AlphabetGeneric.pdb
+E:\Wipro\AlphabetGeneric\obj\Debug\net7.0\AlphabetGeneric.genruntimeconfig.cache
+E:\Wipro\AlphabetGeneric\obj\Debug\net7.0\ref\AlphabetGeneric.dll

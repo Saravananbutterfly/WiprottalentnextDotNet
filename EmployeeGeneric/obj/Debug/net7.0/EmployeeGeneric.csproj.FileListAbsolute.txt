@@ -1,0 +1,14 @@
+E:\Wipro\EmployeeGeneric\bin\Debug\net7.0\EmployeeGeneric.exe
+E:\Wipro\EmployeeGeneric\bin\Debug\net7.0\EmployeeGeneric.deps.json
+E:\Wipro\EmployeeGeneric\bin\Debug\net7.0\EmployeeGeneric.runtimeconfig.json
+E:\Wipro\EmployeeGeneric\bin\Debug\net7.0\EmployeeGeneric.dll
+E:\Wipro\EmployeeGeneric\bin\Debug\net7.0\EmployeeGeneric.pdb
+E:\Wipro\EmployeeGeneric\obj\Debug\net7.0\EmployeeGeneric.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\EmployeeGeneric\obj\Debug\net7.0\EmployeeGeneric.AssemblyInfoInputs.cache
+E:\Wipro\EmployeeGeneric\obj\Debug\net7.0\EmployeeGeneric.AssemblyInfo.cs
+E:\Wipro\EmployeeGeneric\obj\Debug\net7.0\EmployeeGeneric.csproj.CoreCompileInputs.cache
+E:\Wipro\EmployeeGeneric\obj\Debug\net7.0\EmployeeGeneric.dll
+E:\Wipro\EmployeeGeneric\obj\Debug\net7.0\refint\EmployeeGeneric.dll
+E:\Wipro\EmployeeGeneric\obj\Debug\net7.0\EmployeeGeneric.pdb
+E:\Wipro\EmployeeGeneric\obj\Debug\net7.0\EmployeeGeneric.genruntimeconfig.cache
+E:\Wipro\EmployeeGeneric\obj\Debug\net7.0\ref\EmployeeGeneric.dll

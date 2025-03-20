@@ -1,0 +1,14 @@
+E:\Wipro\EmployeeSortedList\bin\Debug\net7.0\EmployeeSortedList.exe
+E:\Wipro\EmployeeSortedList\bin\Debug\net7.0\EmployeeSortedList.deps.json
+E:\Wipro\EmployeeSortedList\bin\Debug\net7.0\EmployeeSortedList.runtimeconfig.json
+E:\Wipro\EmployeeSortedList\bin\Debug\net7.0\EmployeeSortedList.dll
+E:\Wipro\EmployeeSortedList\bin\Debug\net7.0\EmployeeSortedList.pdb
+E:\Wipro\EmployeeSortedList\obj\Debug\net7.0\EmployeeSortedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\EmployeeSortedList\obj\Debug\net7.0\EmployeeSortedList.AssemblyInfoInputs.cache
+E:\Wipro\EmployeeSortedList\obj\Debug\net7.0\EmployeeSortedList.AssemblyInfo.cs
+E:\Wipro\EmployeeSortedList\obj\Debug\net7.0\EmployeeSortedList.csproj.CoreCompileInputs.cache
+E:\Wipro\EmployeeSortedList\obj\Debug\net7.0\EmployeeSortedList.dll
+E:\Wipro\EmployeeSortedList\obj\Debug\net7.0\refint\EmployeeSortedList.dll
+E:\Wipro\EmployeeSortedList\obj\Debug\net7.0\EmployeeSortedList.pdb
+E:\Wipro\EmployeeSortedList\obj\Debug\net7.0\EmployeeSortedList.genruntimeconfig.cache
+E:\Wipro\EmployeeSortedList\obj\Debug\net7.0\ref\EmployeeSortedList.dll
