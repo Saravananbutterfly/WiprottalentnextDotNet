@@ -1,0 +1,14 @@
+E:\Wipro\Reflection\bin\Debug\net7.0\Reflection.exe
+E:\Wipro\Reflection\bin\Debug\net7.0\Reflection.deps.json
+E:\Wipro\Reflection\bin\Debug\net7.0\Reflection.runtimeconfig.json
+E:\Wipro\Reflection\bin\Debug\net7.0\Reflection.dll
+E:\Wipro\Reflection\bin\Debug\net7.0\Reflection.pdb
+E:\Wipro\Reflection\obj\Debug\net7.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\Reflection\obj\Debug\net7.0\Reflection.AssemblyInfoInputs.cache
+E:\Wipro\Reflection\obj\Debug\net7.0\Reflection.AssemblyInfo.cs
+E:\Wipro\Reflection\obj\Debug\net7.0\Reflection.csproj.CoreCompileInputs.cache
+E:\Wipro\Reflection\obj\Debug\net7.0\Reflection.dll
+E:\Wipro\Reflection\obj\Debug\net7.0\refint\Reflection.dll
+E:\Wipro\Reflection\obj\Debug\net7.0\Reflection.pdb
+E:\Wipro\Reflection\obj\Debug\net7.0\Reflection.genruntimeconfig.cache
+E:\Wipro\Reflection\obj\Debug\net7.0\ref\Reflection.dll

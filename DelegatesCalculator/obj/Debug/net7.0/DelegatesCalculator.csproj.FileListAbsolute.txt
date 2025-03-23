@@ -1,0 +1,14 @@
+E:\Wipro\DelegatesCalculator\bin\Debug\net7.0\DelegatesCalculator.exe
+E:\Wipro\DelegatesCalculator\bin\Debug\net7.0\DelegatesCalculator.deps.json
+E:\Wipro\DelegatesCalculator\bin\Debug\net7.0\DelegatesCalculator.runtimeconfig.json
+E:\Wipro\DelegatesCalculator\bin\Debug\net7.0\DelegatesCalculator.dll
+E:\Wipro\DelegatesCalculator\bin\Debug\net7.0\DelegatesCalculator.pdb
+E:\Wipro\DelegatesCalculator\obj\Debug\net7.0\DelegatesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\DelegatesCalculator\obj\Debug\net7.0\DelegatesCalculator.AssemblyInfoInputs.cache
+E:\Wipro\DelegatesCalculator\obj\Debug\net7.0\DelegatesCalculator.AssemblyInfo.cs
+E:\Wipro\DelegatesCalculator\obj\Debug\net7.0\DelegatesCalculator.csproj.CoreCompileInputs.cache
+E:\Wipro\DelegatesCalculator\obj\Debug\net7.0\DelegatesCalculator.dll
+E:\Wipro\DelegatesCalculator\obj\Debug\net7.0\refint\DelegatesCalculator.dll
+E:\Wipro\DelegatesCalculator\obj\Debug\net7.0\DelegatesCalculator.pdb
+E:\Wipro\DelegatesCalculator\obj\Debug\net7.0\DelegatesCalculator.genruntimeconfig.cache
+E:\Wipro\DelegatesCalculator\obj\Debug\net7.0\ref\DelegatesCalculator.dll
